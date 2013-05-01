@@ -36,6 +36,8 @@ file inside your copy of dryphe (in the same directory as auth.py).
 Usage
 -----
 
+Note: until I've set up packaging, you may need to call dryphe with ```PYTHONPATH=. scripts/dryphe <arguments>```
+
 Type ```dryphe -h``` for built-in help. You can get help for a particular command with ```dryphe <command> -h```.
 
 Commands are:
